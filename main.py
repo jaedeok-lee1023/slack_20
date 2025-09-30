@@ -42,7 +42,7 @@ def main():
         notice_msg = (
             f"안녕하세요, 평택 클러스터 구성원 여러분!\n\n"
             f"쾌적하고 효율적인 직원식당 이용을 위해\n"
-            f"아래와 같이 * <https://static.wixstatic.com/media/50072f_4ba099914a4b413f8bce587dec6274f0~mv2.png|에티켓> * 을 안내드립니다.\n"
+            f"아래와 같이 *<https://static.wixstatic.com/media/50072f_4ba099914a4b413f8bce587dec6274f0~mv2.png|에티켓>* 을 안내드립니다.\n"
             f"구성원 여러분의 적극적인 협조 부탁드립니다.\n\n"
             f"\n"
             f"\n"
@@ -53,7 +53,7 @@ def main():
             f":k체크: 사용한 자리는 *다음 사람을 위해 깨끗하게 정리하기*\n\n"
             f"\n"
             f"\n"
-            f":slack:  * 문의사항 : <@U05NXEAL43E> * \n\n"
+            f":slack:  *문의사항 : <@U05NXEAL43E>* \n\n"
             f"감사합니다.\n"
         )
 
